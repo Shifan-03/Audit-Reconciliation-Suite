@@ -1,0 +1,8 @@
+{
+  "name": "AccuRecon Enterprise Financial Statement & Audit Engine",
+  "description": "Enterprise automated financial statement generation, multi-ERP sync, bank and intercompany reconciliation, three-way matching, AI anomaly audit, and IFRS/GAAP compliance suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
